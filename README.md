@@ -2,7 +2,7 @@
    
   <img src="https://amev.io/img/list/coingecko/ame-show-list-logo.svg" />
  
-  <h1>Ame-Dex</h1>
+  <h1>ame-edax</h1>
 
   <p>
     <strong>Ample energy has strengthened liquidity with investors for Ame </strong>
@@ -19,9 +19,9 @@
   <h4>
     <a href="https://amev.io/">Website</a>
     <span> | </span>
-    <a href="https://github.com/energytrutol/awesome-ame">Awesome</a>
+    <a href="https://github.com/energytrutol/aws-ame">Awesome</a>
     <span> | </span>
-    <a href="https://dex.amev.io/#/">DEX</a>
+    <a href="https://edex.amev.io/#/">edaX</a>
     <span> | </span>
     <a href="https://github.com/energytrutol/ame-ts">TypeScript</a>
   </h4>
@@ -31,6 +31,28 @@
 
 | Program | Devnet | BSC Contract AME |
 | --------|--------|------------- |
-| [DEX](/dex)     | 7j94V4ursmryqrLpL1Py | 0x83594c87bE1FAe3AFA3d53aF6324F8764Fbfb5d4 |
+| [DEX](/edax)     | 7j94V4ursmryqrLpL1Py | 0x83594c87bE1FAe3AFA3d53aF6324F8764Fbfb5d4 |
 
 ## Note
+
+* **Edax is in active development so all APIs and protocols are subject to change.**
+* **The code is unaudited. Use at your own risk.*****
+
+* **Edax is in active development so all APIs and protocols are subject to change. (ame & rest) **
+* **The code is unaudited. Use at your own risk.**
+
+### Build, deploy, and test pos dApp programs
+
+See individual crates for documentation. For example, to build the edax see its [README](https://github.com/energytrutol/edax-dex/3v/masterplan/dex).
+
+## Running a local Edax Chain cluster
+
+
+## Directories takuya 
+
+* `assert-owner`: BSC utility program for checking account ownership.
+* `common`: Common rust utilities.
+* `edax`: Edax run dApp, program and client utility.
+* `design`: Architecture for blockchain to work with microgird plug connect.
+* `pool`: Ame Liquidity pool.
+* `scripts`: Bash scripts for development.
