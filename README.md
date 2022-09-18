@@ -1,6 +1,6 @@
 <div align="center">
    
-  <img src="https://amev.io/img/list/aprcorp_ame_rest.png"/>
+  <img src="https://github.com/energytrutol/rest-liquidity/blob/main/aprcorp-ame-rest.png"/>
  
   <h1>EDAX CHAIN</h1>
 
