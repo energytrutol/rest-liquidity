@@ -1,6 +1,6 @@
 <div align="center">
    
-  <img src="https://amev.io/img/list/coingecko/ame-show-list-logo.svg" />
+  <img src="https://amev.io/img/list/aprcorp-ame-rest.png" />
  
   <h1>EDAX CHAIN</h1>
 
