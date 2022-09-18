@@ -29,9 +29,13 @@
 
 ## Program Deployments
 
-| Program | Devnet | BSC Contract AME |
+| Solidity | Devnet | BSC Contract AME |
 | --------|--------|------------- |
-| [DEX](/edax)     | 7j94V4ursmryqrLpL1Py | 0x83594c87bE1FAe3AFA3d53aF6324F8764Fbfb5d4 |
+| [CEX](/edax)     | 7j94V4ursmryqrLpL1Py | 0x83594c87bE1FAe3AFA3d53aF6324F8764Fbfb5d4 |
+
+| Solidity | Devnet | BSC Contract REST |
+| --------|--------|------------- |
+| [DEX](/edax)     | 7j94V4ursmryqrLpL1Py | 0x59132ea5d72bb45146d50fb6af358357fdb5a267 |
 
 ## Note
 
