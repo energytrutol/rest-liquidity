@@ -2,7 +2,7 @@
    
   <img src="https://amev.io/img/list/coingecko/ame-show-list-logo.svg" />
  
-  <h1>REST-EDAX CHAIN</h1>
+  <h1>EDAX CHAIN</h1>
 
   <p>
     <strong>Ample energy has strengthened liquidity with investors for Ame </strong>
