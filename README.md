@@ -58,5 +58,5 @@ See individual crates for documentation. For example, to build the edax see its 
 * `common`: Common rust utilities.
 * `edax`: Edax run dApp, program and client utility.
 * `design`: Architecture for blockchain to work with microgird plug connect.
-* `pool`: Ame Liquidity pool.
+* `pool`: Rest Liquidity pool.
 * `scripts`: Bash scripts for development.
