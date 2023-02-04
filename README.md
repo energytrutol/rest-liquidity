@@ -21,7 +21,7 @@
     <span> | </span>
     <a href="https://github.com/energytrutol/aws-ame">Awesome</a>
     <span> | </span>
-    <a href="https://edexchain.com/#/">edaX</a>
+    <a href="https://edexchain.com/">edaX</a>
     <span> | </span>
     <a href="https://github.com/energytrutol/ame-ts">TypeScript</a>
   </h4>
